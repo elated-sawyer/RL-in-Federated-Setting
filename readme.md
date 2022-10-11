@@ -17,18 +17,6 @@ The aim of this repo is to
 	- Keywords: offline meta reinforcement learning, offline reinforcement learning, meta-reinforcement learning, few-shot online adaptation, data distribution mismatch correction
 	- Key idea: 
 	- Implementation detail:
-- [Offline Communication Learning with Multi-source Datasets](https://openreview.net/forum?id=R4oodnmxb9m)
-	- Keywords: 
-	- Key idea: 
-	- Implementation detail:
-- [Offline RL of the Underlying MDP from Heterogeneous Data Sources](https://openreview.net/forum?id=AR4rOT4sECN)
-	- Keywords: 
-	- Key idea: 
-	- Implementation detail:
-- [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
-	- Keywords: 
-	- Key idea: 
-	- Implementation detail:
 - [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
 	- Keywords: offline RL, multi-task Atari, large models
 	- Key idea: 
@@ -37,6 +25,11 @@ The aim of this repo is to
 	- Keywords: multi-task data sharing, offline reinforcement learning, uncertainty quantification
 	- Key idea: 
 	- Implementation detail:
+*Reading List*
+- [Offline Communication Learning with Multi-source Datasets](https://openreview.net/forum?id=R4oodnmxb9m)
+- [Offline RL of the Underlying MDP from Heterogeneous Data Sources](https://openreview.net/forum?id=AR4rOT4sECN)
+- [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
+
 
 ## Experiments Files
 **main.py**: conduct experiments on [Improvements on Percentile]. <br>
