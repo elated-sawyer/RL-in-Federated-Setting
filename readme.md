@@ -25,8 +25,7 @@ The aim of this repo is to
 	- Keywords: multi-task data sharing, offline reinforcement learning, uncertainty quantification
 	- Key idea: 
 	- Implementation detail:
-<br>
-*Reading List*
+#### Reading List
 - [Offline Communication Learning with Multi-source Datasets](https://openreview.net/forum?id=R4oodnmxb9m)
 - [Offline RL of the Underlying MDP from Heterogeneous Data Sources](https://openreview.net/forum?id=AR4rOT4sECN)
 - [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
