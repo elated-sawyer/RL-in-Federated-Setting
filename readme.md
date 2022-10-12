@@ -40,7 +40,11 @@ The aim of this repo is to
 	- Implementation details: 
 		- Environments: StarCraft II
 - [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
-
+	- Keywords: multi-agent reinforcement learning, multi-task reinforcement learning, skill discovery, offline reinforcement learning
+	- Key idea: 
+	- Implementation details: 
+		- Algorithm: [Python MARL framework](https://github.com/oxwhirl/pymarl)
+		- Environments: [SMAC - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac); [D4RL](https://sites.google.com/view/d4rl/home)
 
 ## Test
 **main.py**: conduct experiments on [Improvements on Percentile]. <br>
