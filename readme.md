@@ -33,7 +33,7 @@ The aim of this repo is to
 		- Environments: [SMAC - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac); [D4RL](https://sites.google.com/view/d4rl/home)
 
 ### ICLR 2022
-- [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[Code](https://github.com/AI-secure/COPA)
+- [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[[Code](https://github.com/AI-secure/COPA)]
 
 ### IJCAI 2022
 - [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
