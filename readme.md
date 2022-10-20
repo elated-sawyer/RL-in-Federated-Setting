@@ -33,13 +33,13 @@ The aim of this repo is to
 		- Environments: [SMAC - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac); [D4RL](https://sites.google.com/view/d4rl/home)
 
 ### ICLR 2022
-- [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)
+- [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[Code](https://github.com/AI-secure/COPA)
 
 ### IJCAI 2022
 - [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
 
 ### NIPS 2021
-- [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://papers.nips.cc/paper/2021/hash/9a3f263a5e5f63006098a05cd7491997-Abstract.html)
+- [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://papers.nips.cc/paper/2021/hash/5fd2c06f558321eff612bbbe455f6fbd-Abstract.html)
 
 ### ICML 2021
