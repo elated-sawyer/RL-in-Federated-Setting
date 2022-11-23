@@ -44,6 +44,5 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 
 ## Test
 **main.py**: conduct experiments on [Improvements on Percentile]. <br>
-**ResultsPlots.ipynb**: plot the results obtained from "main" file.<br>
 
 
