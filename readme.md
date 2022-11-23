@@ -27,12 +27,10 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 	- Implementation details: None
 #### Reading List
 - [Offline Communication Learning with Multi-source Datasets](https://openreview.net/forum?id=R4oodnmxb9m)
-	- Implementation details: 
-		- Environments: StarCraft II
 - [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
-	- Implementation details: 
-		- Algorithm: [Python MARL framework](https://github.com/oxwhirl/pymarl)
-		- Environments: [SMAC - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac); [D4RL](https://sites.google.com/view/d4rl/home)
+- [Personalized Federated Hypernetworks for Privacy Preservation in Multi-Task Reinforcement Learning](https://openreview.net/forum?id=AGLG_ncNp0X)
+- [Adaptive Client Sampling in Federated Learning via Online Learning with Bandit Feedback](https://openreview.net/forum?id=f3dqV4KLZV1)
+
 
 ### ICLR 2022
 - [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[[Code](https://github.com/AI-secure/COPA)]
