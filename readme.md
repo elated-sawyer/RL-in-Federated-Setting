@@ -34,6 +34,9 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 ### AISTATS 2022
 - [Federated Reinforcement Learning with Environment Heterogeneity](https://proceedings.mlr.press/v151/jin22a.html)
 
+### NIPS 2022
+- [Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework](https://openreview.net/forum?id=4OHRr7gmhd4)
+
 ### NIPS 2021
 - [Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee](https://arxiv.org/abs/2110.14074)
 - [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
