@@ -65,6 +65,13 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 ### ICML 2021
 - [Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment](https://arxiv.org/abs/2104.05632)
 
+
+### AAMAS 2024
+- [Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence](https://arxiv.org/abs/2401.03489)
+
+### Arxiv
+- [Federated Deep Reinforcement Learning](https://arxiv.org/abs/1901.08277)
+
 ## Test
 **main.py**: conduct experiments on [Improvements on Percentile]. <br>
 
