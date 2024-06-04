@@ -10,6 +10,12 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 * Implementation details
 
 ## Papers
+
+### ICLR 2024
+- [Federated Q-Learning: Linear Regret Speedup with Low Communication Cost](https://openreview.net/pdf?id=fe6ANBxcKM)
+- [Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit](https://openreview.net/pdf?id=m52uU0dVbH)
+
+
 ### ICLR 2023
 - [Personalized Federated Hypernetworks for Privacy Preservation in Multi-Task Reinforcement Learning](https://openreview.net/forum?id=AGLG_ncNp0X)
 #### related
@@ -34,6 +40,11 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 ### AISTATS 2022
 - [Federated Reinforcement Learning with Environment Heterogeneity](https://proceedings.mlr.press/v151/jin22a.html)
 
+
+
+### NIPS 2023
+- NULL
+
 ### NIPS 2022
 #### related
 - [Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework](https://openreview.net/forum?id=4OHRr7gmhd4)
@@ -43,6 +54,13 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 #### related
 - [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://papers.nips.cc/paper/2021/hash/5fd2c06f558321eff612bbbe455f6fbd-Abstract.html)
+
+### ICML 2023
+- [Federated Linear Contextual Bandits with User-level Differential Privacy](https://arxiv.org/abs/2306.05275)
+- [The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond](https://arxiv.org/abs/2305.10697)
+
+### ICML 2022
+- [Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling](https://arxiv.org/abs/2206.10185)
 
 ### ICML 2021
 - [Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment](https://arxiv.org/abs/2104.05632)
