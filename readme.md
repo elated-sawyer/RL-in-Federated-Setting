@@ -20,6 +20,7 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 - [Personalized Federated Hypernetworks for Privacy Preservation in Multi-Task Reinforcement Learning](https://openreview.net/forum?id=AGLG_ncNp0X)
 #### related
 - [Offline Reinforcement Learning with Differential Privacy](https://openreview.net/forum?id=NT51Ty0-Bfu)
+<!---
 - [Correcting Data Distribution Mismatch in Offline Meta-Reinforcement Learning with Few-Shot Online Adaptation](https://openreview.net/forum?id=Dk7tsv9fkF)
 - [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
 - [Uncertainty-based Multi-Task Data Sharing for Offline Reinforcement Learning](https://openreview.net/forum?id=u1Vj68CJZP)
@@ -27,15 +28,17 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 - [Offline Communication Learning with Multi-source Datasets](https://openreview.net/forum?id=R4oodnmxb9m)
 - [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
 - [Adaptive Client Sampling in Federated Learning via Online Learning with Bandit Feedback](https://openreview.net/forum?id=f3dqV4KLZV1)
-
+-->
 
 ### ICLR 2022
 #### related
 - [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[[Code](https://github.com/AI-secure/COPA)]
 
+<!---
 ### IJCAI 2022
 #### related
 - [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
+-->
 
 ### AISTATS 2022
 - [Federated Reinforcement Learning with Environment Heterogeneity](https://proceedings.mlr.press/v151/jin22a.html)
