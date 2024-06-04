@@ -34,11 +34,18 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 #### related
 - [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks ](https://openreview.net/forum?id=psh0oeMSBiF)[[Code](https://github.com/AI-secure/COPA)]
 
-<!---
+
+### IJCAI 2024
+- NULL
+
+### IJCAI 2023
+- [Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based Federated Learning](https://www.ijcai.org/proceedings/2023/474)
+
+
 ### IJCAI 2022
 #### related
 - [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
--->
+
 
 ### AISTATS 2022
 - [Federated Reinforcement Learning with Environment Heterogeneity](https://proceedings.mlr.press/v151/jin22a.html)
@@ -71,6 +78,16 @@ Referenced [Conferences' accepted paper lists](https://github.com/Lionelsy/Confe
 
 ### AAMAS 2024
 - [Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence](https://arxiv.org/abs/2401.03489)
+
+### AAAI 2024
+- [Federated X-Armed Bandit](https://arxiv.org/abs/2205.15268)
+
+### AAAI 2023
+- NULL
+
+### AAAI 2022
+- [A Multi-agent Reinforcement Learning Approach for Efficient Client Selection in Federated Learning](https://arxiv.org/abs/2201.02932)
+
 
 ### Arxiv
 - [Federated Deep Reinforcement Learning](https://arxiv.org/abs/1901.08277)
